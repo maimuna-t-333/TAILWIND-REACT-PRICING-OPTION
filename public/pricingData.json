@@ -1,0 +1,45 @@
+[
+    {
+      "id": "basic",
+      "name": "Basic Plan",
+      "price": 29,
+      "description": "Best for casual gym-goers who need essential access.",
+      "features": [
+        "Access to gym floor (all equipment)",
+        "Locker room & showers",
+        "Free fitness assessment (1x)",
+        "Open 7 days a week",
+        "Access during staffed hours only"
+      ]
+    },
+    {
+      "id": "standard",
+      "name": "Standard Plan",
+      "popular":"true",
+      "price": 49,
+      "description": "Best for regular members who want more flexibility and perks.",
+      "features": [
+        "24/7 gym access",
+        "Unlimited group fitness classes (Yoga, HIIT, Spin, etc.)",
+        "2 guest passes/month",
+        "Free fitness assessment + 1 follow-up",
+        "Discounts on supplements & merch",
+        "Locker room, showers, & towel service"
+      ]
+    },
+    {
+      "id": "premium",
+      "name": "Premium Plan",
+      "price": 79,
+      "description": "Best for fitness enthusiasts who want it all.",
+      "features": [
+        "All Standard features",
+        "Unlimited guest passes",
+        "Monthly 1-on-1 personal training session",
+        "Priority booking for classes",
+        "Sauna & recovery room access"
+        
+      ]
+    }
+  ]
+  
